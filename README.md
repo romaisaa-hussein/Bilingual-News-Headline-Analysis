@@ -16,6 +16,12 @@
 
 ## Dataset
 
+This is an original dataset collected and annotated manually as part of this project. It is included in this repository as **dataset.csv**.
+
+Collection: Headlines were manually gathered from the websites of eight bilingual news agencies over a two-year period, October 2023 to October 2025, covering the same news events across English and Arabic editions.
+
+Annotation: Narrative frames were manually assigned to each headline, making this a human-annotated bilingual dataset.
+
 | Column | Description |
 |---|---|
 | `id` | Unique headline identifier |
