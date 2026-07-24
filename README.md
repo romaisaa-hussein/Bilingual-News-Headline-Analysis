@@ -107,7 +107,15 @@ stanza.download("ar")
 | `high_similarity_pairs.xlsx` | Top similar headline pairs per agency |
 
 ---
+## Screenshots
 
+![Similarity Heatmap](media/screenshots/similarities-heatmap.png)
+*Monthly cosine similarity between English and Arabic outputs per agency*
+
+![Agreement Chart](media/screenshots/summary_chart.png)
+*Frame, sentiment and voice agreement in high similarity headline pairs*
+
+---
 ##  Author
 
 [Romaisaa Ahmed] — University Project
