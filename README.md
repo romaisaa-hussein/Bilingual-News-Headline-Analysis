@@ -130,4 +130,5 @@ stanza.download("ar")
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+- **Code** — [MIT License](LICENSE)
+- **Dataset** — [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) — free to use with credit
